@@ -18,6 +18,6 @@ COL: http://www.britishmuseum.org/research/collection_online/collection_object_d
 The contents of this repository are licensed under CC-BY-NC-SA
 
 # Credits
-Photographs by Jennifer Wexler and Tess Sanders, British Museum
+Photographs by Jennifer Wexler and Tess Sanders, (Project Manager - Gallery Digital), British Museum
 
 Models by Daniel Pett <dpett@britishmuseum.org>, Digital Humanities Lead, British Museum
