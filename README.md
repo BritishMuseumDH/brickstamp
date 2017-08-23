@@ -1,4 +1,6 @@
  [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
+ [![DOI](https://zenodo.org/badge/82815295.svg)](https://zenodo.org/badge/latestdoi/82815295)
+
 
 # A 3D model of a restored Akkadian brickstamp
 
