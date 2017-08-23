@@ -2,6 +2,8 @@
 
 # A 3D model of a restored Assyrian brickstamp
 
+![](stampAkkadia.gif)
+
 Pottery stamp for bricks; restored; with modern impression; inscribed; 3 ll.
 
 Length: 10.16 centimetres
